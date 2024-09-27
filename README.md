@@ -1,4 +1,4 @@
-### Olá! Eu sou o Eduardo Cordeiro👋
+<!--### Olá! Eu sou o Eduardo Cordeiro👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardorc14&show_icons=true&theme=dracula)
 
@@ -7,7 +7,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-<!--
+
 **eduardorc14/eduardorc14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
